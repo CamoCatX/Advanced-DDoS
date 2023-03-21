@@ -913,7 +913,7 @@ else:
 		usage()
 		sys.exit()
 	else:
-		print "Copyright: Anonymous"
+		print "Made by CamoCatX: https://github.com/CamoCatX"
 		if len(sys.argv)== 3:
 			if sys.argv[2]=="safe":
 				set_safe()
